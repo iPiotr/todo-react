@@ -3,6 +3,10 @@
   text-decoration: line-through;
 }
 
+p:hover {
+  cursor: pointer;
+}
+
 .App {
   text-align: center;
 }
